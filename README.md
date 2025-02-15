@@ -15,7 +15,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/video-thumbnail-generator.git
-cd video-thumbnail-generator
+cd thumber
 ```
 
 ### 2. Install Dependencies
