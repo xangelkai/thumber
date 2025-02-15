@@ -4,11 +4,11 @@
 
 ## 🚀 Features
 
-✅ Extracts 12 evenly spaced frames from a video.  
-✅ Creates a 4x3 grid from the extracted frames.  
-✅ Supports popular video formats: `.mp4`, `.avi`, `.mov`, `.mkv`.  
-✅ Graphical interface built with PyQt6.  
-✅ CLI support for batch processing.  
+✅ Extracts 12 evenly spaced frames from a video.
+✅ Creates a 4x3 grid from the extracted frames.
+✅ Supports popular video formats: `.mp4`, `.avi`, `.mov`, `.mkv`.
+✅ Graphical interface built with PyQt6.
+✅ CLI support for batch processing.
 
 ## 📌 Installation
 
@@ -31,7 +31,7 @@ This tool uses `ffmpeg` for video processing. Make sure it is installed on your 
 ### GUI Mode
 Run the script without arguments to open the graphical interface:
 ```bash
-python main.py
+python thumber.py
 ```
 1. Click **"Choose Videos"** and select one or more video files.
 2. Click **"Generate Previews"** to process the selected videos.
@@ -40,11 +40,12 @@ python main.py
 ### CLI Mode
 You can also run the program in command-line mode:
 ```bash
-python main.py path/to/video.mp4
+python 
+path/to/video.mp4
 ```
 For batch processing:
 ```bash
-python main.py video1.mp4 video2.mkv video3.avi
+python thumber.py video1.mp4 video2.mkv video3.avi
 ```
 Each generated preview image will be saved in the same directory as its corresponding video.
 
