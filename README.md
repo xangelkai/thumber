@@ -14,7 +14,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/video-thumbnail-generator.git
+git clone https://github.com/xangelkai/thumber
 cd thumber
 ```
 
