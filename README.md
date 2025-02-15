@@ -1,0 +1,2 @@
+# thumber
+Video Thumbnail Generator
